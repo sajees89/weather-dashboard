@@ -32,4 +32,4 @@ https://sajees89.github.io/weather-dashboard/
 
 ## Screenshot 
 
-![screenshot](https://https://github.com/sajees89/weather-dashboard/blob/main/images/weather%20screenshot.png)
+![screenshot](https://github.com/sajees89/weather-dashboard/blob/main/images/weather%20screenshot.png)
